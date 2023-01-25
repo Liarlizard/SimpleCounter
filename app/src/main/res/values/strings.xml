@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCounter</string>
+    <string name="addButtonText">Add 1</string>
+    <string name="numCounter">0</string>
+    <string name="UpgradeButtonTxt">Upgrade to Add 2</string>
+    <string name="UpgradedButtonTxt">Add 2</string>
+</resources>
